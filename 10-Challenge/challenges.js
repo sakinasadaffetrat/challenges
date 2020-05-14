@@ -8,3 +8,4 @@ day === day[2] ?
 console.log("TRUE") : console.log("FALSE");
 
 console.log(day[2]);
+console.log(day[5]);
