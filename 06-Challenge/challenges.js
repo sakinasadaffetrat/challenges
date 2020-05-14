@@ -10,6 +10,18 @@ function lessThanOrEqualToZero(number) {
     {
 		return false;
     }
+<<<<<<< HEAD
+=======
+
+};
+
+  console.log(-2);
+
+
+
+
+
+>>>>>>> b9fd0b91b568fd5611b56efb3d91d77de94f88aa
 
 };
 
